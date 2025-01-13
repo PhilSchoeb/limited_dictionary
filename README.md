@@ -1,9 +1,9 @@
+# Implémentation d'un dictionnaire en Java
+Interface qui permet de charger un fichier texte ou d'écrire directement, puis d'identifier et de corriger les erreurs du texte à partir d'un dictionnaire précédemment chargé. Ce travail à été fait dans le cadre du cours de programmation 2 (IFT1025) à l'Université de Montréal.
+
 TABLE DES MATIÈRES :
 1- Guide de l'utilisateur
 2- Organisation du programme
-
-Ceci est un correcteur de fichiers texte pour le
-cours IFT1025 à l'UdeM.
 
 1- GUIDE DE L'UTILISATEUR
 
