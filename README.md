@@ -1,11 +1,11 @@
 # Implémentation d'un dictionnaire en Java
 Interface qui permet de charger un fichier texte ou d'écrire directement, puis d'identifier et de corriger les erreurs du texte à partir d'un dictionnaire précédemment chargé. Ce travail à été fait dans le cadre du cours de programmation 2 (IFT1025) à l'Université de Montréal.
 
-TABLE DES MATIÈRES :
+### TABLE DES MATIÈRES :
 1- Guide de l'utilisateur
 2- Organisation du programme
 
-1- GUIDE DE L'UTILISATEUR
+### GUIDE DE L'UTILISATEUR
 
 D'abord, l'utilisateur clique sur "Dictionnaire"
 et charge un dictionnaire à partir d'un fichier.
@@ -35,7 +35,7 @@ Le texte à corriger doit seulement être
 composé de lettres et d'espaces ou sauts
 de ligne pour une vérification adéquate.
 
-2. CLASSES ET ORGANISATION DU PROGRAMME
+### CLASSES ET ORGANISATION DU PROGRAMME
 
 Le programme est divisé en 4 classes en plus de
 la classe Main, qui fait rouler le programme.
